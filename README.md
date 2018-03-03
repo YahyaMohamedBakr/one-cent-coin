@@ -1,10 +1,10 @@
 Onecentcoin integration/staging tree
 ================================
 
-http://www.onecentcoin.org
+http://www.1centcoin.1centall.pro
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Onecentcoin Developers
+Copyright (c) 2017-2018 Onecentcoin Developers
 
 What is Onecentcoin?
 ----------------
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Onecentcoin client sofware, see http://www.onecentcoin.org.
+the Onecentcoin client sofware, see http://www.1centcoin.1centall.pro
 
 License
 -------
